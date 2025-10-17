@@ -93,7 +93,4 @@ After testing multiple approaches, **Polynomial Regression** delivered the best 
   - scikit-learn  
   - matplotlib / seaborn  
 
----
-
-## 📁 Repository Structure
 
